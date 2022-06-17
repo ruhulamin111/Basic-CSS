@@ -1,0 +1,21 @@
+.blog {
+    color: white;
+    background-color: #038C73;
+    border: 3px solid #F29F05;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.blog p {
+    text-align: justify;
+    color: wheat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.blog h2 {
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aqua;
+}
